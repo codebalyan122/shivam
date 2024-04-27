@@ -10,7 +10,7 @@ inject();
 const space_Grotesk = Space_Grotesk({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://portfolio-three-hazel-57.vercel.app/"),
+  metadataBase: new URL("https://shivam-ten.vercel.app/"),
 
   title: "Shivam Balayan",
   authors: {
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     title: "Shivam Balayan",
     description:
       "Evolving Code, Self-Taught Spirit: Software Development Journey from India.",
-    url: "https://portfolio-three-hazel-57.vercel.app/",
+    url: "https://shivam-ten.vercel.app/",
     siteName: "Shivam Balayan",
     // images: "/newPortfolio.png",
     type: "website",
